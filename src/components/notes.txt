@@ -1,0 +1,1 @@
+hover:bg-blue-500 w-64 h-16 py-3 mx-3 my-3 border-solid border-2 border-gray-600
