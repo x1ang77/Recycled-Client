@@ -39,7 +39,6 @@ export const AddReward = () => {
             method="POST"
             onSubmit={onSubmitHandler}
         >
-            {JSON.stringify(reward)}
             <div>
                 <label>First Title</label>
                 <input type="text" name="title" onChange={onChangeHandler} />
