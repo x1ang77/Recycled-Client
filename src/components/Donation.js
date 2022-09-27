@@ -27,9 +27,9 @@ const Donation = () => {
                             We are proudly non-profit,
                         </span>{" "}
                         non-corporate and non-compromised. Thousands of people
-                        like you help us stand up for a healthy internet for
+                        like you help us stand up for a healthy environment for
                         all. We rely on donations to carry out our mission to
-                        keep the Web open and free.{" "}
+                        keep our community clean.{" "}
                         <span className="font-bold">Will you give today?</span>
                     </h2>
                     <h2 className="flex justify-center">Donate Now</h2>
