@@ -53,6 +53,17 @@ video {
     min-height: 92.8vh;
 }
 
+.donationimg {
+    background-image: url(./images/donate.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 92.8vh;
+}
+
+.heading {
+    font-family: "Century Gothic";
+}
+
 .password-icon {
     cursor: pointer;
     max-height: 3px;

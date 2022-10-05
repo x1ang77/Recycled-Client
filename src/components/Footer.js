@@ -142,7 +142,8 @@ const Footer = () => {
                                     href="https://www.creative-tim.com?ref=njs-profile"
                                     class="text-blueGray-500 hover:text-blueGray-800"
                                 >
-                                    {""}Xiang Ze
+                                    {" "}
+                                    Xiang Ze
                                 </a>
                                 .
                             </div>
